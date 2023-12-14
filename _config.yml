@@ -7,4 +7,6 @@ navigation:
     url: test
   - title : Example
     url : example
+  - title : Text Analysis
+    url : textanalysis
 
