@@ -4,5 +4,5 @@ description: Website for the project of ADA course, group RemontADA
 show_downloads: True
 navigation:
   - title: Test
-    url: test.md
+    url: test
 
