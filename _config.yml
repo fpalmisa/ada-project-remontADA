@@ -5,4 +5,6 @@ show_downloads: True
 navigation:
   - title: Test
     url: test
+  - title : Example
+    url : example
 
