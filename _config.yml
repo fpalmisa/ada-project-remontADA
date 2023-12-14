@@ -3,7 +3,7 @@ title: Project RemontAda : A Bee(r)xpert
 description: Website for the project of ADA course, group RemontADA
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
+  - title: Test
+    url: test
   - title: Example
     url: example
