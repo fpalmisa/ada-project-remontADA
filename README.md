@@ -1,9 +1,4 @@
-# ADA Template Website
-## Usage
-1. Fork (copy) this repository by clicking the "Fork" button on the top right corner.
-2. Go to "Settings" -> "Pages" in your forked repository. Under "Branch" change "None" to "master" and click "Save".
-3. Edit the `_config.yml` file in your forked repository to change the site title (after `title:`) and description (after `description:`).
-4. Build your own page by editing this `README.md` (home page) and creating new `.md` files (other pages), formatting is done with standard [GitHub Markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), we provide an example file `example.md` in the repository.
-**Important**: Please include ```--- layout: default ---``` (the first three line in `example.md`) at the beginning of your every newly created `.md` file.
-5. Add your new `.md` files to the site by editing the `_config.yml` file in your forked repository. Under `navigation:` add a new pair of `- title:` and `url:`, and fill their value with your page name and `.md` file name. Remember to remove the `- title:` and `url:` pair for the example page.
-6. Go back to "Settings" -> "Pages" to find your website link.
+# Project Bee(x)peRt
+## Abstract
+There are two types of users: extensive raters and occasional raters. It is reasonable to question whether this difference has an impact on the ratings. These extensive raters could be some kind of experts, such as people working in a brewery, but they can also be beer enthusiasts without professional skills. As a beer company releasing a new product, the following question may arise: Should the company place more trust in ratings from these extensive raters? To answer this question, analyses of the ratings statistics have to be done to find if the experts have an impact on the ratings. The analysis is first focused on finding relevant differences that can assess whether the difference between the two classes is significant. Secondly, the analysis is focused on more precise questions to understand if extensive raters are responsible for the success of a beer or not.
+
