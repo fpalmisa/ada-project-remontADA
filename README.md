@@ -14,7 +14,7 @@
 
 - Fin Datastory, différents car ils font bcp de ratings mais en même temps très similaires (tendances très similaires), avis beaucoup plus complexes plus détaillés 
 
-
+vhjhv bn;,:
 
 Fil conducteur:
 - titre, question intro
