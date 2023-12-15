@@ -4,3 +4,7 @@ There are two types of users: extensive raters and occasional raters. It is reas
 
 
 
+
+
+### Credits : 
+This project is done by Laaroussi Yannis, Palmisano Fabio, Roduit Vincent, Roh Vincent, Semiz Alexi for the course of Applied Data Analysis from EPFL (CS-401)
