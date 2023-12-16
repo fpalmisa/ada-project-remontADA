@@ -1,9 +1,9 @@
 # Bee(x)peRt
-Immersed in the sea of floating liters of beer within our minds, let's plunge into the intoxicating analysis of the High-Volume Raters and their comparison with the raters from the "everyday" beer enthusiasts. But how to defines an expert in this effervescent world? How can we truly trust what we label as expertise?
+Immersed in the sea of floating liters of beer within our minds, let's plunge into the intoxicating analysis of experts and their comparison with the "everyday" beer enthusiasts. But how to defines an expert among the customers ? Why should we truly trust what we label as expertise?
 
 Picture a novice local brewery dreaming of its grand opening. Should it place its faith in the masses, in the opinions of the general populace, or should it exclusively lean towards the ratings of the acclaimed experts? In the cacophony of choices, should it navigate the path of a crowd-pleaser or trust the experts to turn its brew into the blockbuster highlight of a Saturday night among friends?
 
-In this flavorful journey, we dissect the essence of expertise, question the reliability of expert ratings, and ponder whether a brewery's destiny lies in the hands of the crowd or the discerning palates of connoisseurs. Join us in this spirited exploration, where the frothy symphony of data unfolds the secrets of brewing success.
+In this flavorful journey, we dissect the essence of expertise, question the reliability of expert ratings, ponder whether a brewery's destiny lies in the hands of the crowd or the discerning palates of insiders, and if it is worthy to pay for some experts advices. Join us in this spirited exploration, where the frothy symphony of data unfolds the secrets of brewing success.
 
  
 ## About the Dataset
