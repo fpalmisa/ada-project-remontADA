@@ -13,7 +13,10 @@ In this section we introduce our definition of experts, the ones that could be a
 ### Distribution of the number of ratings per user
 Let's dive into the satistics:
 
-PLOT Cumulative histogram of the number of ratings per user (all websites)
+
+![Plot Title](https://github.com/fpalmisa/ada-project-remontADA/blob/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/CCDF.png)
+
+Cumulative histogram of the number of ratings per user (all websites)
 
 The distribution has a heavy tail, indicating that there are numerous users who have posted only a few ratings, and conversely, a small number of users who are prolific raters. This observation motivates us to delve deeper into understanding the distinctions between these prolific raters and the rest of the user population. We'll pick up our experts from these figures.
 
