@@ -9,7 +9,7 @@ In this flavorful journey, we dissect the essence of expertise, question the rel
 ## About the Dataset
 
 ## Who is an expert ?
-In this section we introduce our definition of experts, the ones that could be able to help making our beer sucessful.
+In this section we introduce our definition of experts, the ones that could be able to help making our beer successful.
 ### Distribution of the number of ratings per user
 Let's dive into the satistics:
 
