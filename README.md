@@ -34,10 +34,10 @@ The experts are then people from the 0.995 quantile of the score calculate previ
 These users only represent 0.5 % of active users and yet their influence on the ratings are huge since they account for huge part the final mean rating that will be displayed on the websites.
 ### <center>What an impact !</center>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/paleale.png" alt="Plot Distrib">
-</div>
 
+<div align="center">
+  <img src="https://github.com/fpalmisa/ada-project-remontADA/blob/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/paleale.png" alt="Plot Distrib">
+</div>
 
 First of all, even if experts account only for 0.5% of the active they represent a big part in the ratings of the beers. There are even some years and styles for which they overtake non experts part. Thus, their voice really matter since they can make a huge difference for the final average rating displayed on websites.
 
