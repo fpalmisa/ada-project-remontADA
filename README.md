@@ -49,7 +49,7 @@ So it might be interesting to know if their ratings differentiate.
 
 
 
-#####
+## ----------------------------------------------------------
 
 - Différence entre experts et casual⇒ plus sévère, notent pas les mêmes bières etc. (Grades, Text Analysis)
 
@@ -57,22 +57,15 @@ So it might be interesting to know if their ratings differentiate.
 
 - Analyse plus complexes/précises
 
-
-
 - 2 types de raters (experts et non), check la distribution des ratings , définition des experts 
 
 - Qui sont nos experts ? On y répond plus bas ?
   
-
-
 - Montrer l'impact sur le début des binchs
-  
-  
+
 - Text Analysis, sentiment analysis (plus négatifs les experts)
 
 - Fin Datastory, différents car ils font bcp de ratings mais en même temps très similaires (tendances très similaires), avis beaucoup plus complexes plus détaillés 
-
-vhjhv bn;,:
 
 Fil conducteur:
 - titre, question intro
