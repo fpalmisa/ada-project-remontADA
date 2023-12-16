@@ -43,7 +43,7 @@ First of all, even if experts account only for 0.5% of the active they represent
 
 Plus we found that experts tend to rate beers that are less famous than those that are rated by casual users. Threfore, the fast and early sucess might depend a lot on experts tastes.
 
-*PLOOOOOOOOOT avec expert rating proportion as a function of time evolution (cumulative or proportion by year ?)(from the launch of a beer to now, but mean over all the beers (for which there is enough ratings))TO DOOOOOOOOOOOOO*
+**PLOOOOOOOOOT avec expert rating proportion as a function of time evolution (cumulative or proportion by year ?)(from the launch of a beer to now, but mean over all the beers (for which there is enough ratings))TO DOOOOOOOOOOOOO**
 
 So it might be interesting to know if their ratings differentiate.
 
