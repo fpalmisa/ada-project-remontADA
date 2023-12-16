@@ -35,7 +35,7 @@ These users only represent 0.5 % of active users and yet their influence on the 
 ### <center>What an impact !</center>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/paleale.png" alt="Plot Title">
+  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/paleale.png" alt="Plot Distrib">
 </div>
 
 
