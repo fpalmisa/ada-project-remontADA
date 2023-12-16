@@ -39,8 +39,11 @@ So it might be interesting to know if their ratings differentiate.
 
 
 
+- Différence entre experts et casual⇒ plus sévère, notent pas les mêmes bières etc. (Grades, Text Analysis)
 
+- Mais quand même ils sont pareils, mêmes tendances etc.
 
+- Analyse plus complexes/précises
 
 
 
