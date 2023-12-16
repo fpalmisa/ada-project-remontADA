@@ -15,7 +15,7 @@ In this section we introduce our definition of experts, the ones that could be a
 Let's dive into the satistics:
 
 
-<p align="center"><img src="https://github.com/fpalmisa/ada-project-remontADA/blob/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/CCDF.png" alt="Distrib"></p>
+<center>![Plot Title](https://github.com/fpalmisa/ada-project-remontADA/blob/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/CCDF.png)</center>
 
 
 The distribution has a heavy tail, indicating that there are numerous users who have posted only a few ratings, and conversely, a small number of users who are prolific raters. This observation motivates us to delve deeper into understanding the distinctions between these prolific raters and the rest of the user population. We'll pick up our experts from these figures.
@@ -29,7 +29,8 @@ $$S_{Y_j} = 2 * R_{Y_{j}} + 0.5 * R_{Y_{j-1}} + 0.25 * R_{Y_{j-2}} + 0.1 * R_{Y_
 The experts are then people from the 0.995 quantile of the score calculate previously (among those who have a non-zero score i.e active users).
 These users only represent 0.5 % of active users and yet their influence on the ratings are huge since they account for huge part the final mean rating that will be displayed on the websites.
 ### <center>What an impact !</center>
-<p align="center"><img src="https://github.com/fpalmisa/ada-project-remontADA/blob/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/paleale.png" alt="Distrib"></p>
+
+<center>![Plot Title](https://github.com/fpalmisa/ada-project-remontADA/blob/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/paleale.png)</center>
 
 First of all, even if experts account only for 0.5% of the active they represent a big part in the ratings of the beers. There are even some years and styles for which they overtake non experts part. Thus, their voice really matter since they can make a huge difference for the final average rating displayed on websites.
 
