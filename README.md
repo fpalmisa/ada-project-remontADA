@@ -15,7 +15,9 @@ In this section we introduce our definition of experts, the ones that could be a
 Let's dive into the satistics:
 
 
-![Plot Title](https://github.com/fpalmisa/ada-project-remontADA/blob/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/CCDF.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/81108e0145e72ff7a1ad0f8c87f5c60276f38499/assets/img/CCDF.png" alt="Plot Title">
+</div>
 
 ![Plot Title](./assets/img/CCDF.png)
 
@@ -33,6 +35,8 @@ These users only represent 0.5 % of active users and yet their influence on the 
 ### <center>What an impact !</center>
 
 ![Plot Title](https://github.com/fpalmisa/ada-project-remontADA/blob/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/paleale.png)
+
+![Plot Title](./assets/img/paleale.png)
 
 First of all, even if experts account only for 0.5% of the active they represent a big part in the ratings of the beers. There are even some years and styles for which they overtake non experts part. Thus, their voice really matter since they can make a huge difference for the final average rating displayed on websites.
 
