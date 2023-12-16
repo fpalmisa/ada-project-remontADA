@@ -20,8 +20,6 @@ Let's dive into the satistics:
 </div>
 
 
-
-
 The distribution has a heavy tail, indicating that there are numerous users who have posted only a few ratings, and conversely, a small number of users who are prolific raters. This observation motivates us to delve deeper into understanding the distinctions between these prolific raters and the rest of the user population. We'll pick up our experts from these figures.
 ### <center>Define who is a massive rater</center>
 
@@ -34,6 +32,7 @@ $$
 , where $R_{Y_j}$ denotes the number of ratings for the year j and $S_{Y_j}$ is the score of the user for the year j.
 The experts are then people from the 0.995 quantile of the score calculate previously (among those who have a non-zero score i.e active users).
 These users only represent 0.5 % of active users and yet their influence on the ratings are huge since they account for huge part the final mean rating that will be displayed on the websites.
+
 ### <center>What an impact !</center>
 
 
