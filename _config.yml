@@ -3,6 +3,6 @@ title: A Bee(x)peRt
 description: Project of group Remontada for CS-401
 show_downloads: True
 navigation:
-  - title : Tasty Analysis
-    url : README
+  - title: Home
+    url: /
 
