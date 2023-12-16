@@ -6,12 +6,12 @@ Picture a novice local brewery dreaming of its grand opening. Should it place it
 
 In this flavorful journey, we dissect the essence of expertise, question the reliability of expert ratings, ponder whether a brewery's destiny lies in the hands of the crowd or the discerning palates of insiders, and if it is worthy to pay for some experts advices. Join us in this spirited exploration, where the frothy symphony of data unfolds the secrets of brewing success.
 
-## <div align="center">About the Dataset</div>
+## <center>About the Dataset</center>
 
 
-## <div align="center">Who is an expert ?</div>
+## <center>Who is an expert ?</center>
 In this section we introduce our definition of experts, the ones that could be able to help making our beer successful.
-### <div align="center">Distribution of the number of ratings per user</div>
+### <center>Distribution of the number of ratings per user</center>
 Let's dive into the satistics:
 
 
@@ -19,14 +19,16 @@ Let's dive into the satistics:
 
 
 The distribution has a heavy tail, indicating that there are numerous users who have posted only a few ratings, and conversely, a small number of users who are prolific raters. This observation motivates us to delve deeper into understanding the distinctions between these prolific raters and the rest of the user population. We'll pick up our experts from these figures.
-### <div align="center">Define who is a massive rater</div>
+### <center>Define who is a massive rater</center>
 
 In order to separate people in two group, a definition of a massive rater, called from now an "expert" has to be found. The choice was made here to consider the number of ratings per year and aggregate scores from the past 3 years with the formula:
+
 $$S_{Y_j} = 2 * R_{Y_{j}} + 0.5 * R_{Y_{j-1}} + 0.25 * R_{Y_{j-2}} + 0.1 * R_{Y_{j-3}}$$
+
 , where $R_{Y_j}$ denotes the number of ratings for the year j and $S_{Y_j}$ is the score of the user for the year j.
 The experts are then people from the 0.995 quantile of the score calculate previously (among those who have a non-zero score i.e active users).
 These users only represent 0.5 % of active users and yet their influence on the ratings are huge since they account for huge part the final mean rating that will be displayed on the websites.
-### <div align="center">What an impact !</div>
+### <center>What an impact !</center>
 <p align="center"><img src="https://github.com/fpalmisa/ada-project-remontADA/blob/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/paleale.png" alt="Distrib"></p>
 
 First of all, even if experts account only for 0.5% of the active they represent a big part in the ratings of the beers. There are even some years and styles for which they overtake non experts part. Thus, their voice really matter since they can make a huge difference for the final average rating displayed on websites.
