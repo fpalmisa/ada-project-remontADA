@@ -27,10 +27,6 @@ In order to separate people in two group, a definition of a massive rater, calle
 
 $S_{Y_j} = 2 \cdot R_{Y_{j}} + 0.5 \cdot R_{Y_{j-1}} + 0.25 \cdot R_{Y_{j-2}} + 0.1 \cdot R_{Y_{j-3}}$
 
-![Equation](https://img.shields.io/badge/Equation-S_%7BY_j%7D%20%3D%202%20%5Ccdot%20R_%7BY_%7Bj%7D%20%2B%200.5%20%5Ccdot%20R_%7BY_%7Bj-1%7D%20%2B%200.25%20%5Ccdot%20R_%7BY_%7Bj-2%7D%20%2B%200.1%20%5Ccdot%20R_%7BY_%7Bj-3%7D-blue)
-
-
-
 , where $R_{Y_j}$ denotes the number of ratings for the year j and $S_{Y_j}$ is the score of the user for the year j.
 The experts are then people from the 0.995 quantile of the score calculate previously (among those who have a non-zero score i.e active users).
 These users only represent 0.5 % of active users and yet their influence on the ratings are huge since they account for huge part the final mean rating that will be displayed on the websites.
