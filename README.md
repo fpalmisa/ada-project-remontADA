@@ -8,6 +8,12 @@ In this flavorful journey, we dissect the essence of expertise, question the rel
 
 ## <center>About the Dataset</center>
 
+This dataset consists beer reviews collected over period of 17 years (2001 to 2017) from two beer rating websites: BeerAdvocate (https://www.beeradvocate.com/) and RateBeer (https://www.ratebeer.com/). The dataset contain both textual and numerical data.
+
+Following some analysis, the decision was made to merge the datasets from both platforms. This merging process aimed to obtain more robust and meaningful results in terms of expert and non-expert ratings. It was observed that combining both datasets reduces more the bias than considering each dataset in isolation. To mitigate potential biases introduced by the merger, a standardization procedure was implemented for the different rating systems used by the two websites.
+
+To increase comparability, users on one website were linked with their counterparts on the other website, and a similar linkage process was applied to beers. This approach ensures a more equitable evaluation of ratings across the merged dataset, providing a foundation for reliable and unbiased analyses.
+
 
 ## <center>Who is an expert ?</center>
 In this section we introduce our definition of experts, the ones that could be able to help making our beer successful.
