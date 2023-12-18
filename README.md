@@ -89,7 +89,10 @@ Vincent R. :
 Vincent Roh : 
 Alexi : 
 
-### Ethics : 
+### <center>Ethics !</center>
+
+![Ethics](https://github.com/fpalmisa/ada-project-remontADA/blob/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/ethics.jpeg)
+
 
 In contemporary machine learning and applied data analysis projects like Beer Reviews Analysis, the evaluation of ethical risks is gaining importance. The master course at EPFL provided a brief introduction on how to navigate these risks using a helpful canvas. As designers of this kind of project, it is the responsibility to assess potential impacts and address them responsibly.
 
