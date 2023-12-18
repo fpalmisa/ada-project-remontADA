@@ -53,7 +53,7 @@ Plus we found that experts tend to rate beers that are less famous than those th
 So it might be interesting to know if their ratings differentiate.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/paleale.png" alt="Plot Title">
+  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/mean_ratings_experts_casuals" alt="Plot Title">
 </div>
 
 It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. 
