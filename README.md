@@ -101,9 +101,7 @@ Alexi :
 
 ### <center>Ethics !</center>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/ethic.png" alt="Plot Title">
-</div>
+![Plot Title](https://github.com/fpalmisa/ada-project-remontADA/blob/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/ethic.png)
 
 
 
