@@ -48,12 +48,14 @@ First of all, even if experts account only for 0.5% of the active they represent
 
 Plus we found that experts tend to rate beers that are less famous than those that are rated by casual users. Threfore, the fast and early sucess might depend a lot on experts tastes.
 
-**PLOOOOOOOOOT avec expert rating proportion as a function of time evolution (cumulative or proportion by year ?)(from the launch of a beer to now, but mean over all the beers (for which there is enough ratings))TO DOOOOOOOOOOOOO**
+<div align="center">
+  <img src="https://github.com/fpalmisa/ada-project-remontADA/blob/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/expert_proportion_since_begining.png" alt="Plot Title">
+</div>
 
 So it might be interesting to know if their ratings differentiate.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/mean_ratings_experts_casuals" alt="Plot Title">
+  <img src="https://github.com/fpalmisa/ada-project-remontADA/blob/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/mean_ratings_experts_casuals.png" alt="Plot Title">
 </div>
 
 It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. 
