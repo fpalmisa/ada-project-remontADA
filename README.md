@@ -41,7 +41,7 @@ These users only represent 0.5 % of active users and yet their influence on the 
 
 
 <div align="center">
-  <img src="https://github.com/fpalmisa/ada-project-remontADA/blob/a72c07490fb8da00ab6ad8939e5b2e1a9b3964d3/assets/img/paleale.png" alt="Plot Title">
+  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/a72c07490fb8da00ab6ad8939e5b2e1a9b3964d3/assets/img/paleale.png" alt="Plot Title">
 </div>
 
 First of all, even if experts account only for 0.5% of the active they represent a big part in the ratings of the beers. There are even some years and styles for which they overtake non experts part. Thus, their voice really matter since they can make a huge difference for the final average rating displayed on websites.
