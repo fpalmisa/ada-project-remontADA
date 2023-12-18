@@ -106,6 +106,7 @@ Alexi :
 </div>
 
 
+
 In contemporary machine learning and applied data analysis projects like Beer Reviews Analysis, the evaluation of ethical risks is gaining importance. The master course at EPFL provided a brief introduction on how to navigate these risks using a helpful canvas. As designers of this kind of project, it is the responsibility to assess potential impacts and address them responsibly.
 
 Focusing specifically on the Beer Analysis, one identifiable ethical risk involves influencing consumer choices. There are both indirect stakeholders, who are impacted by the system but do not directly interact with it (including the Public, Government, Environment, and Friends), and direct stakeholders, such as admins, end-users, or contractors, who have direct interactions with the system.
