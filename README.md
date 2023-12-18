@@ -49,7 +49,7 @@ First of all, even if experts account only for 0.5% of the active they represent
 Plus we found that experts tend to rate beers that are less famous than those that are rated by casual users. Threfore, the fast and early sucess might depend a lot on experts tastes.
 
 <div align="center">
-  <img src="https://github.com/fpalmisa/ada-project-remontADA/blob/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/expert_proportion_since_begining.png" alt="Plot Title">
+  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/expert_proportion_since_begining.png" alt="Plot Title">
 </div>
 
 In general, a notable pattern emerges where experts initiate the rating trend, establishing an initial inclination. As the evaluation proceeds, non-experts increasingly contribute ratings, potentially outnumbering expert assessments. This indicates that experts set the initial tone, and non-experts play a significant role by adding a larger volume of assessments as the overall trend develops.
@@ -57,7 +57,7 @@ In general, a notable pattern emerges where experts initiate the rating trend, e
 So it might be interesting to know if their ratings differentiate.
 
 <div align="center">
-  <img src="https://github.com/fpalmisa/ada-project-remontADA/blob/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/mean_ratings_experts_casuals.png" alt="Plot Title">
+  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/mean_ratings_experts_casuals.png" alt="Plot Title">
 </div>
 
 It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. 
