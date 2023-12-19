@@ -66,6 +66,15 @@ It has been observed that experts tend to assess beers more critically than non-
 
 ## ----------------------------------------------------------
 
+
+![BeerNovice](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/d221d7ad-43a6-473c-8dab-e599dd0685fa)
+
+
+
+
+
+
+
 - Différence entre experts et casual⇒ plus sévère, notent pas les mêmes bières etc. (Grades, Text Analysis)
 
 - Mais quand même ils sont pareils, mêmes tendances etc.
