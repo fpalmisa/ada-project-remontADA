@@ -65,7 +65,7 @@ It has been observed that experts tend to assess beers more critically than non-
 
 
 ## ----------------------------------------------------------
-
+## Strong or fruity words ?
 In our exploration of beer reviews, nuanced results emerges as we focus the distinctiveness and commonality in textual review among experts. The divergence in linguistic patterns is apparent, revealing a spectrum that spans from the intricately detailed lexicon of experts to the more commonplace expressions used by non-experts.
 
 Upon careful examination of the left pint of beer, representative of expert reviews, experts employ a vocabulary more in specificity, utilizing refined words and adjectives that contribute to a more intricate and nuanced analysis. The language employed by experts reflects a depth of understanding and a penchant for articulating subtle nuances in flavor, aroma, and overall beer characteristics.
