@@ -72,7 +72,8 @@ It has been observed that experts tend to assess beers more critically than non-
 
 
 
-![Distribution 2017](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/d2e23398-fdd8-45e6-b287-7712500dde47)
+![Distribution 2017](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/1de48878-a7cb-4b98-973f-041768d5c054)
+
 
 
 
