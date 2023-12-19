@@ -67,8 +67,10 @@ It has been observed that experts tend to assess beers more critically than non-
 ## ----------------------------------------------------------
 
 
-![BeerNovice](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/d221d7ad-43a6-473c-8dab-e599dd0685fa)
+![BeerExpert](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/6347edbf-820c-4dd0-b0c4-dfd3fc8d441c)
 
+
+![BeerNovice](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/7711e87f-3a02-420e-9d27-871ac9235f30)
 
 
 
@@ -110,7 +112,8 @@ Alexi :
 
 ### <center>Ethics !</center>
 
-![Plot Title](https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/ethic.png)
+![ethic](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/e2f674a8-74d9-41a0-abda-ca1827f135f2)
+
 
 
 
