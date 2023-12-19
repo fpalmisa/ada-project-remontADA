@@ -128,4 +128,6 @@ Taking the example of influencing consumer choices, considering only direct stak
 In this project, the aim is to use both datasets, incorporating the maximum number of reviews possible to minimize bias in consumer reviews and recommendations. Relying on only one dataset could introduce more bias into consumer choices. Hence, incorporating both datasets serves as an additional measure to mitigate bias and provide more robust and unbiased consumer advice.
 
 ### Credits : 
+![Name](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/a3032a60-17de-478e-a0bc-90b9dd5bc6a7)
+
 This project is done by Laaroussi Yannis, Palmisano Fabio, Roduit Vincent, Roh Vincent, Semiz Alexi for the course of Applied Data Analysis from EPFL (CS-401)
