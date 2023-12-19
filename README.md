@@ -65,8 +65,12 @@ So it might be interesting to know if their ratings differentiate.
   <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/mean_ratings_experts_casuals.png" alt="Plot Title">
 </div>
 
-It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. 
-
+PLOT INTERACTIF!!!!!!!!!!!
+It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. We see that experts tend to be more severe than casual raters.
+Moreover, we remarked that experts rate beers that are less famous than beers rated by casuals users. 
+A beer expert often has a more refined palate and extensive experience with various beer styles, ingredients, and brewing techniques. Their exposure allows them to detect subtle nuances, complexities, and flaws that a casual consumer might overlook. Additionally, experts may have a deeper understanding of the technical aspects of brewing, influencing their preferences and perceptions of taste. We might wonder. This difference implies a differente vocabulary in their reviews. 
+Also, anaylizing the reviews and performing a sentiment analysis taught us that experts reviews are less positive than casual ones: ttest pvalue: 10**-14.
+Then why should the breweries trust the experts while their perceptions seem to differentiate from the average consumer. It could seem paradoxical if the brewery wants to maximize its sales.
 
 
 ## ----------------------------------------------------------
