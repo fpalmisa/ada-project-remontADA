@@ -68,24 +68,30 @@ So it might be interesting to know if their ratings differentiate.
 </div>
 
 PLOT INTERACTIF!!!!!!!!!!!
-It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. We see that experts tend to be more severe than casual raters.
-Moreover, we remarked that experts rate beers that are less famous than beers rated by casuals users. 
-A beer expert often has a more refined palate and extensive experience with various beer styles, ingredients, and brewing techniques. Their exposure allows them to detect subtle nuances, complexities, and flaws that a casual consumer might overlook. Additionally, experts may have a deeper understanding of the technical aspects of brewing, influencing their preferences and perceptions of taste. We might wonder. This difference implies a differente vocabulary in their reviews. 
-Also, anaylizing the reviews and performing a sentiment analysis taught us that experts reviews are less positive than casual ones: ttest pvalue: 10**-14.
+
+It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. Experts tend to be more severe than casual raters.
+Moreover, it was remarked that experts rate beers that are less famous than beers rated by casual users.
+A beer expert often has a more refined palate and extensive experience with various beer styles, ingredients, and brewing techniques. Their exposure allows them to detect subtle nuances, complexities, and flaws that a casual consumer might overlook. Additionally, experts may have a deeper understanding of the technical aspects of brewing, influencing their preferences and perceptions of taste. 
+Also, analyzing the reviews and performing a sentiment analysis taught us that experts' reviews are significantly less positive than casual ones.
 Then why should the breweries trust the experts while their perceptions seem to differentiate from the average consumer. It could seem paradoxical if the brewery wants to maximize its sales.
+
 
 
 ## ----------------------------------------------------------
 ## Strong or fruity words ?
-In our exploration of beer reviews, nuanced results emerges as we focus the distinctiveness and commonality in textual review among experts. The divergence in linguistic patterns is apparent, revealing a spectrum that spans from the intricately detailed lexicon of experts to the more commonplace expressions used by non-experts.
 
-Upon careful examination of the left pint of beer, representative of expert reviews, experts employ a vocabulary more in specificity, utilizing refined words and adjectives that contribute to a more intricate and nuanced analysis. The language employed by experts reflects a depth of understanding and a penchant for articulating subtle nuances in flavor, aroma, and overall beer characteristics.
+In our exploration of beer reviews, nuanced results emerge as we focus on the distinctiveness and commonality in textual reviews among experts. The divergence in linguistic patterns is apparent, revealing a spectrum that spans from the intricately detailed lexicon of experts to the more commonplace expressions used by non-experts.
 
-Conversely, the right pint of beer, symbolic of non-expert reviews, presents a contrasting narrative. The language used by non-experts tends to more basic language adjectives. The choice of words in non-expert reviews, while effective in conveying impressions, lacks the finesse and precision observed in the expert discourse.
+Examining the left pint of beer, representative of expert reviews, experts employ a vocabulary more in specificity, utilizing refined words and adjectives that contribute to a more intricate and nuanced analysis. The language employed by experts confirms what is observed during this beer's journey, reflecting a depth of understanding and a penchant for articulating subtle nuances in flavor, aroma, and overall beer characteristics.
 
-In the context of establishing a nascent brewery, these findings bear significance. The analyses conducted by experts, characterized by their complexity and precision, emerge as a valuable resource for informed decision-making. As we navigate the landscape of beer aficionados, there is a compelling rationale to place greater trust in the reviews of experts, whose discerning language contributes to a more comprehensive understanding of the beer landscape.
+In the right pint of beer, symbolic of non-expert reviews, presents a contrasting narrative. The language used by non-experts tends to be more basic in its use of adjectives. The choice of words in non-expert reviews again lacks the finesse and precision observed in the expert discourse.
 
-In addition to examining the linguistic nuances, focus shifts to the quantitative aspect of beer reviews by analyzing the lengths of reviews provided by both experts and non-experts. Employing a statistical hypothesis test (t-test) rigorously evaluates whether there exists a significant difference in the mean lengths of reviews between the two groups. The results of the analysis reveal a remarkably low p-value, providing robust evidence to conclude that the mean review lengths are indeed different. Interestingly, the investigation further discloses that non-experts tend to contribute longer reviews compared to their expert counterparts. This nuanced understanding of both qualitative and quantitative dimensions enriches comprehension of the diverse reviewing behaviors within the beer enthusiast community.
+In the context of creating a new brewery, these findings bear significance. The analyses conducted by experts, characterized by their complexity and precision, emerge as a valuable resource for informed decision-making. As we navigate the landscape of beer enthusiasts, there are advantages to placing greater trust in the reviews of experts, whose discerning language contributes to a more comprehensive understanding of the beer landscape.
+
+In addition to examining the linguistic nuances, focus shifts to the quantitative aspect of beer reviews by analyzing the lengths of reviews provided by both experts and non-experts. There exists a significant difference in the mean lengths of reviews between the two groups. Furthermore, the investigation shows that non-experts tend to contribute longer reviews compared to their expert counterparts. This nuanced understanding of both qualitative and quantitative dimensions enriches comprehension of the diverse reviewing behaviors within the beer enthusiast community.
+
+The conclusion is that we have more robust and complex reviews done by the experts. Even though non-experts make longer reviews, they are less complete. This confirms what is observed during this sparkling adventure.
+
 
 ![BeerWordCloud](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/29cb2eab-c72c-49f5-923a-a230c75fd864)
 
