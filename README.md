@@ -62,7 +62,7 @@ Plus we found that experts tend to rate beers that are less famous than those th
 In general, a notable pattern emerges where experts initiate the rating trend, establishing an initial inclination. As the evaluation proceeds, non-experts increasingly contribute ratings, potentially outnumbering expert assessments. This indicates that experts set the initial tone, and non-experts play a significant role by adding a larger volume of assessments as the overall trend develops.
 
 So it might be interesting to know if their ratings differentiate.
-
+### How are they different ?
 <div align="center">
   <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/mean_ratings_experts_casuals.png" alt="Plot Title">
 </div>
