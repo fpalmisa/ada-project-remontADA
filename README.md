@@ -46,6 +46,8 @@ These users only represent 0.5 % of active users and yet their influence on the 
 
 First of all, even if experts account only for 0.5% of the active they represent a big part in the ratings of the beers. There are even some years and styles for which they overtake non experts part. Thus, their voice really matter since they can make a huge difference for the final average rating displayed on websites.
 
+By analyzing beers with at least 100 ratings per year, we observe that the difference in median ratings for the majority of them between experts and non-experts is very small. This reinforces the notion that while a discrepancy in ratings exists between the two parties, the overall trend remains largely consistent. It would be interesting to delve more deeply into this difference.
+
 <div align="center">
   <img src="https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/1de48878-a7cb-4b98-973f-041768d5c054" alt="Distribution 2017">
 </div>
