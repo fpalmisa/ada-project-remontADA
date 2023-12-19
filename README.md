@@ -46,6 +46,11 @@ These users only represent 0.5 % of active users and yet their influence on the 
 
 First of all, even if experts account only for 0.5% of the active they represent a big part in the ratings of the beers. There are even some years and styles for which they overtake non experts part. Thus, their voice really matter since they can make a huge difference for the final average rating displayed on websites.
 
+<div align="center">
+  <img src="https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/1de48878-a7cb-4b98-973f-041768d5c054" alt="Distribution 2017">
+</div>
+
+
 Plus we found that experts tend to rate beers that are less famous than those that are rated by casual users. Threfore, the fast and early sucess might depend a lot on experts tastes.
 
 <div align="center">
@@ -60,11 +65,40 @@ So it might be interesting to know if their ratings differentiate.
   <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/1c4b4ab5cb9b68dec1e6dd1118cc98136ba803f7/assets/img/mean_ratings_experts_casuals.png" alt="Plot Title">
 </div>
 
-It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. 
-
+PLOT INTERACTIF!!!!!!!!!!!
+It has been observed that experts tend to assess beers more critically than non-experts. However, despite these discernible distinctions, a common trend in ratings emerges, indicating that specific qualities are universally appreciated or disliked across both groups. We see that experts tend to be more severe than casual raters.
+Moreover, we remarked that experts rate beers that are less famous than beers rated by casuals users. 
+A beer expert often has a more refined palate and extensive experience with various beer styles, ingredients, and brewing techniques. Their exposure allows them to detect subtle nuances, complexities, and flaws that a casual consumer might overlook. Additionally, experts may have a deeper understanding of the technical aspects of brewing, influencing their preferences and perceptions of taste. We might wonder. This difference implies a differente vocabulary in their reviews. 
+Also, anaylizing the reviews and performing a sentiment analysis taught us that experts reviews are less positive than casual ones: ttest pvalue: 10**-14.
+Then why should the breweries trust the experts while their perceptions seem to differentiate from the average consumer. It could seem paradoxical if the brewery wants to maximize its sales.
 
 
 ## ----------------------------------------------------------
+## Strong or fruity words ?
+In our exploration of beer reviews, nuanced results emerges as we focus the distinctiveness and commonality in textual review among experts. The divergence in linguistic patterns is apparent, revealing a spectrum that spans from the intricately detailed lexicon of experts to the more commonplace expressions used by non-experts.
+
+Upon careful examination of the left pint of beer, representative of expert reviews, experts employ a vocabulary more in specificity, utilizing refined words and adjectives that contribute to a more intricate and nuanced analysis. The language employed by experts reflects a depth of understanding and a penchant for articulating subtle nuances in flavor, aroma, and overall beer characteristics.
+
+Conversely, the right pint of beer, symbolic of non-expert reviews, presents a contrasting narrative. The language used by non-experts tends to more basic language adjectives. The choice of words in non-expert reviews, while effective in conveying impressions, lacks the finesse and precision observed in the expert discourse.
+
+In the context of establishing a nascent brewery, these findings bear significance. The analyses conducted by experts, characterized by their complexity and precision, emerge as a valuable resource for informed decision-making. As we navigate the landscape of beer aficionados, there is a compelling rationale to place greater trust in the reviews of experts, whose discerning language contributes to a more comprehensive understanding of the beer landscape.
+
+In addition to examining the linguistic nuances, focus shifts to the quantitative aspect of beer reviews by analyzing the lengths of reviews provided by both experts and non-experts. Employing a statistical hypothesis test (t-test) rigorously evaluates whether there exists a significant difference in the mean lengths of reviews between the two groups. The results of the analysis reveal a remarkably low p-value, providing robust evidence to conclude that the mean review lengths are indeed different. Interestingly, the investigation further discloses that non-experts tend to contribute longer reviews compared to their expert counterparts. This nuanced understanding of both qualitative and quantitative dimensions enriches comprehension of the diverse reviewing behaviors within the beer enthusiast community.
+
+![BeerWordCloud](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/29cb2eab-c72c-49f5-923a-a230c75fd864)
+
+
+
+## Sentiments Analysis to do 
+
+
+
+
+
+
+
+
+
 
 - Différence entre experts et casual⇒ plus sévère, notent pas les mêmes bières etc. (Grades, Text Analysis)
 
@@ -101,12 +135,12 @@ Alexi :
 
 ### <center>Ethics !</center>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fpalmisa/ada-project-remontADA/c926d8337453a39df9ce32bd6672fd696f905a23/assets/img/ethic.png" alt="Plot Title">
-</div>
+![ethic](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/e2f674a8-74d9-41a0-abda-ca1827f135f2)
 
 
-In contemporary machine learning and applied data analysis projects like Beer Reviews Analysis, the evaluation of ethical risks is gaining importance. The master course at EPFL provided a brief introduction on how to navigate these risks using a helpful canvas. As designers of this kind of project, it is the responsibility to assess potential impacts and address them responsibly.
+
+
+In contemporary machine learning and applied data analysis projects like Beer Reviews Analysis, the evaluation of ethical risks is gaining importance. As designers of this kind of project, it is the responsibility to assess potential impacts and address them responsibly.
 
 Focusing specifically on the Beer Analysis, one identifiable ethical risk involves influencing consumer choices. There are both indirect stakeholders, who are impacted by the system but do not directly interact with it (including the Public, Government, Environment, and Friends), and direct stakeholders, such as admins, end-users, or contractors, who have direct interactions with the system.
 
@@ -115,4 +149,7 @@ Taking the example of influencing consumer choices, considering only direct stak
 In this project, the aim is to use both datasets, incorporating the maximum number of reviews possible to minimize bias in consumer reviews and recommendations. Relying on only one dataset could introduce more bias into consumer choices. Hence, incorporating both datasets serves as an additional measure to mitigate bias and provide more robust and unbiased consumer advice.
 
 ### Credits : 
+
+![Name](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/a3032a60-17de-478e-a0bc-90b9dd5bc6a7)
+
 This project is done by Laaroussi Yannis, Palmisano Fabio, Roduit Vincent, Roh Vincent, Semiz Alexi for the course of Applied Data Analysis from EPFL (CS-401)
