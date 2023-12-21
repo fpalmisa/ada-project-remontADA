@@ -75,6 +75,21 @@ A beer expert often has a more refined palate and extensive experience with vari
 Also, analyzing the reviews and performing a sentiment analysis taught us that experts' reviews are significantly less positive than casual ones.
 Then why should the breweries trust the experts while their perceptions seem to differentiate from the average consumer. It could seem paradoxical if the brewery wants to maximize its sales.
 
+## Fabio Part
+
+So far, it has been observed that experts tend to be stricter and more demanding in their ratings, which can clearly be explained by a certain professionalism and a palate that is more sensitive to the nuances of different beer tastes. Indeed, experts are accustomed to rating all types of beers, of different styles, and especially beers that are not necessarily well-known, thus contributing to having a potentially greater impact on the success of new blockbusters. So, when analyzing the opening of the brewery, there is a desire to take into account these sometimes slightly harsher and negative opinions, but which, in the long term, can certainly show all their advantages.
+However, let's not forget that every expert was once a beginner and had to start at the very bottom of the ladder. That's why, when all is said and done, the question arises as to whether there aren't a few similarities in spite of everything.
+
+So different but so similar? 
+
+If we take a closer look at the different beers evaluated by experts and non-experts, we can still see some similarities. In fact, if we look at their distribution, we can see that despite the small bias still present between experts and non-experts, we can observe a certain similarity in the shape of the distributions. Admittedly, if we consider the number of ratings, these numbers are incomparable, but the distribution according to the years or the distribution according to the styles is quite similar for our two categories in their respective scales.
+
+Let's just take the Pale Ale style as an example, which is one of the beers with a very low average rating. You had expect a very low score from most people, but a slight difference from the experts because of their experience and habits. However, over the years, it's always a style of beer that fails to convince either experts or non-experts in any significant way. In contrast, if we take the Witbier style as an example, we can see that the difference between the average score given by experts and non-experts remains very similar over the years. This trend is discernible for most of our styles, as well as for certain specific beers and their average rating. 
+
+In the end, therefore, experts are different, but their tendencies are similar to that of non-experts. These observations are backed up by various interactive graphs, which clearly show this trend.
+
+But why should one really care about the experts if they follow much the same trend as most people who pass judgment on beers? Sure, they're tougher, but do they really add value to the analysis? Let's take a look at the quality of their reviews to find out.
+
 
 
 ## ----------------------------------------------------------
@@ -90,8 +105,8 @@ In the context of creating a new brewery, these findings bear significance. The 
 
 In addition to examining the linguistic nuances, focus shifts to the quantitative aspect of beer reviews by analyzing the lengths of reviews provided by both experts and non-experts. There exists a significant difference in the mean lengths of reviews between the two groups. Furthermore, the investigation shows that non-experts tend to contribute longer reviews compared to their expert counterparts. This nuanced understanding of both qualitative and quantitative dimensions enriches comprehension of the diverse reviewing behaviors within the beer enthusiast community.
 
-The conclusion is that we have more robust and complex reviews done by the experts. Even though non-experts make longer reviews, they are less complete. This confirms what is observed during this sparkling adventure.
-
+The conclusion is that we have more robust and complex reviews done by the experts. Even though non-experts make longer reviews, they are less complete. 
+**This confirms what is observed during this sparkling adventure, indicating that relying on their analysis can help improve the beer's success, even if it means involving some costs. But trust in this! It's worth it.**
 
 ![BeerWordCloud](https://github.com/fpalmisa/ada-project-remontADA/assets/101518342/29cb2eab-c72c-49f5-923a-a230c75fd864)
 
@@ -107,31 +122,6 @@ The conclusion is that we have more robust and complex reviews done by the exper
 
 
 
-
-- Différence entre experts et casual⇒ plus sévère, notent pas les mêmes bières etc. (Grades, Text Analysis)
-
-- Mais quand même ils sont pareils, mêmes tendances etc.
-
-- Analyse plus complexes/précises
-
-- 2 types de raters (experts et non), check la distribution des ratings , définition des experts 
-
-- Qui sont nos experts ? On y répond plus bas ?
-  
-- Montrer l'impact sur le début des binchs
-
-- Text Analysis, sentiment analysis (plus négatifs les experts)
-
-- Fin Datastory, différents car ils font bcp de ratings mais en même temps très similaires (tendances très similaires), avis beaucoup plus complexes plus détaillés 
-
-Fil conducteur:
-- titre, question intro
-- Il existe 2 types de users, donc légitime de se poser la question des différences (parce que high volume raters ⇒ impact)
-- Définition de nos experts
-- Différence entre experts et casual⇒ plus sévère, notent pas les mêmes bières etc.
-- Mais quand même ils sont pareils, mêmes tendances etc.
-- Leurs analyses sont plus complexes/précises etc
-- 
 
 
 ### Contributions 
